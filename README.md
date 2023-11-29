@@ -1,2 +1,3 @@
-# blackjack
-Игра в 21 (очко). 
+# Blackjack
+
+The new description of this game with no ui
